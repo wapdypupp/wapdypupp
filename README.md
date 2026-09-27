@@ -6,8 +6,4 @@ hi
   <img src="https://komarev.com/ghpvc/?username=Soldier-Teto" alt="ppl who looked at ts">
 
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=DenverCoder1&label=🌈&color=fffada)
-
 
